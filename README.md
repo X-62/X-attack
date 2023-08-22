@@ -8,6 +8,16 @@
 
 # code
 
-'&&&&'
+apt update 
+apt upgrade 
+pkg install git 
+pkg install python 
+git clone https://github.com/X-62/X-attack
+cd X-attack
+python X-62
 
-"apt upgrade"
+# سلب مسئولیت
+
+بنده در قبال استفاده این گیت در کار های خلاف مسئولیتی ندارم.
+
+# اسکرین شات
