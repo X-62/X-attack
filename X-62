@@ -3,6 +3,7 @@ import time
 from os import system
 system("python3 -m pip install colorama")
 system("clear")   
+print("Rubika: @bio_X62
 print('                                  ______          ______')
 print('                                  \     \        /     /')
 print('                                   \     \      /     / ')
