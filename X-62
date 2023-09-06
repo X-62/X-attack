@@ -2,7 +2,9 @@ import webbrowser
 import time
 from os import system
 system("python3 -m pip install colorama")
-system("clear")   
+system("clear") 
+system("pkg install toilet")
+system("toilet -f mono12 -F metal "X-62"")
 print("Rubika:@bio_X62")
 print('                                  ______          ______')
 print('                                  \     \        /     /')
