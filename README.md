@@ -32,7 +32,7 @@ python X-62
 
 https://github.com/X-62/X-attack/blob/main/Screenshot_%DB%B2%DB%B0%DB%B2%DB%B3%DB%B0%DB%B8%DB%B2%DB%B2-%DB%B1%DB%B4%DB%B0%DB%B5%DB%B3%DB%B7_Termux.jpg
 
-#آپدیت 
+# آپدیت 
 
 rm -rf X-attack
 
