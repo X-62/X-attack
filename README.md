@@ -27,6 +27,17 @@ python X-62
 
 بنده در قبال استفاده این گیت در کار های خلاف مسئولیتی ندارم.
 
+#UPDATE
+rm -rf X-attack
+
+rm -rf X-62
+
+git clone https://github.com/X-62/X-attack
+
+cd X-attack
+
+python X-62
+
 # اسکرین شات
 
 https://github.com/X-62/X-attack/blob/main/Screenshot_%DB%B2%DB%B0%DB%B2%DB%B3%DB%B0%DB%B8%DB%B2%DB%B2-%DB%B1%DB%B4%DB%B0%DB%B5%DB%B3%DB%B7_Termux.jpg
